@@ -26,8 +26,8 @@ The dataset is suitable for training and benchmarking deep learning models focus
 
 The dataset can be downloaded via the following Baidu Netdisk link:
 
-**🔗 Link:** [https://pan.baidu.com/s/1L8aBjmalMGz1ZQZRIghlyw?pwd=sx8a](https://pan.baidu.com/s/1L8aBjmalMGz1ZQZRIghlyw?pwd=sx8a)\
-**🔑 Extraction Code:** `sx8a`
+**🔗 Link:** [https://pan.baidu.com/s/1gvr_ckPZ7ILF5Jp0gDidww?pwd=knay](https://pan.baidu.com/s/1gvr_ckPZ7ILF5Jp0gDidww?pwd=knay)\
+**🔑 Extraction Code:** `knay`
 
 > Please cite or acknowledge this dataset if used in academic research or publication.
 
